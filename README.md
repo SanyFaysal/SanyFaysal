@@ -1,13 +1,30 @@
 
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3c00f6105775659.5f84899401909.gif)]
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Angel Albinagorta 👨‍💻 
 
+![](https://img.shields.io/github/followers/albinagorta?label=follow&logo=github&style=flat-square)
+![GitHub User's stars](https://img.shields.io/github/stars/albinagorta?label=%E2%AD%90GitHub%20stars&style=flat-square)
+![](https://komarev.com/ghpvc/?username=albinagorta&style=flat-square&color=ff69b4)
+<a href="https://discord.gg/87722te4">![Discord](https://img.shields.io/discord/686069011481362462?logo=discord&style=flat-square&label=web%20dev%20community)</a>
+<a href="https://youtube.com/avideait">![Youtube](https://img.shields.io/badge/-Avideait-333333?style=flat&logo=youtube)</a>
+<!-- <h1 style="font-size: 2.5rem; font-weight: bold; text-align: center;" align='center'> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px"> Hello World! <img src="https://media.giphy.com/media/fFEFxS3DE5VIY/giphy.gif" width="35px" /></h1>    -->
 
-<h1 align="center">Hi There<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a>, I'm Abu Sani Faysal</h1>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+![mi perfil](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
+
+# Redes sociales:
+<div align='center' style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; column-gap: 20px;">
+<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://twitter.com/avideait" target="_blank"><img src="./assets/social-media/twitter.svg" alt="Angel Albinagorta" width="30"  /></a>
+<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://www.linkedin.com/in/angel-luis-albinagorta-vargas/" target="blank"><img src="./assets/social-media/linkedin.svg" alt="Angel Albinagorta" width="30" /></a>
+<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href='mailto:avideait@gmail.com' target='_blank'><img src="./assets/social-media/gmail.svg" width="30" alt="Angel Albinagorta" /></a>
+<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href='https://www.facebook.com/AvideaIT/' target='_blank'><img src='./assets/social-media/facebook.svg' alt='Angel Albinagorta' width='30'/></a>
+<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://discord.gg/87722te4" target="_blank" ><img src="./assets/discord.svg" alt="Angel Albinagorta" width='30'></a>
+</div>
+
+<p style="text-align: center; font-size: 1rem;" align='center'>👦🏻 Angel Albinagorta | 👨‍💻 Full Stack Developer | Perú</p>
+
 
 <br />
-<br />
 
+<h2 style="display: flex; align-items: center; margin-bottom: 1rem;"><img style="width: 40px; margin: 0;" src="./assets/Octocat/Octocat.png" alt="🌟" width='40' /> About Me</h2>
 
 
 🌱 I’m currently learning [Golang](https://golang.org/) And [DevOps](https://www.google.com/search?q=DevOps)
