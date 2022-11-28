@@ -20,7 +20,7 @@
 </div>
 
 <p style="text-align: center; font-size: 1rem;" align='center'>👦🏻 Angel Albinagorta | 👨‍💻 Full Stack Developer | Perú</p>
-
+<img align='right' src="https://github.com/BhavyaCodes/BhavyaCodes/blob/master/.github/cat.gif" height="" width="300" alt="coding cat">
 
 <br />
 
