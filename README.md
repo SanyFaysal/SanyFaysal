@@ -8,7 +8,7 @@
 <br />
 <br />
 
-[![Github](https://img.shields.io/github/followers/progmamun?label=Follow&style=social)](https://github.com/progmamun)&nbsp;![Profile views](https://gpvc.arturio.dev/progmamun)
+
 
 🌱 I’m currently learning [Golang](https://golang.org/) And [DevOps](https://www.google.com/search?q=DevOps)
 
