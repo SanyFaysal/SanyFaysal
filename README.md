@@ -6,8 +6,8 @@
 <a href="https://discord.gg/87722te4">![Discord](https://img.shields.io/discord/686069011481362462?logo=discord&style=flat-square&label=web%20dev%20community)</a>
 <a href="https://youtube.com/avideait">![Youtube](https://img.shields.io/badge/-Avideait-333333?style=flat&logo=youtube)</a>
 
-<!-- <h1 style="font-size: 2.5rem; font-weight: bold; text-align: center;" align='center'> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px"> Hello World! <img src="https://media.giphy.com/media/fFEFxS3DE5VIY/giphy.gif" width="35px" /></h1>    -->
-
+<!-- <h1 style="font-size: 2.5rem; font-weight: bold; text-align: center;" align='center'> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px"> Hello World!</h1>    -->
+ <img src="https://media.giphy.com/media/fFEFxS3DE5VIY/giphy.gif" width="35px" />
 
 <p style="text-align: center; font-size: 1rem;" align='center'>👦🏻 <span style='color:cyan'>Abu Sani Faysal |  </span> <span style='color:yellow'>MERN stack Developer </span> | <span style='color:lightgreen'>  Full stack Developer </span></p>
 
