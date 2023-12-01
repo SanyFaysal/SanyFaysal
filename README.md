@@ -7,7 +7,7 @@
 <a href="https://youtube.com/avideait">![Youtube](https://img.shields.io/badge/-Avideait-333333?style=flat&logo=youtube)</a>
 
 
- <img src="https://drive.google.com/uc?export=view&id=1rzGCg-FjvStDPmWuRke0hqkFvuvvZj9Q" width="1200px" />
+ <img src="https://drive.google.com/uc?export=view&id=1rzGCg-FjvStDPmWuRke0hqkFvuvvZj9Q" width="1200px" height='300px' />
 
 <p style="text-align: center; font-size: 1rem;" align='center'>👦🏻 <span style='color:cyan'>Abu Sani Faysal |  </span> <span style='color:yellow'>MERN stack Developer </span> | <span style='color:lightgreen'>  Full stack Developer </span></p>
 
