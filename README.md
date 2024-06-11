@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abu Sani Faysal</h1>
 <h3 align="center">A passionate Full stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyfaysal&label=Profile%20views&color=0e75b6&style=flat" alt="sanyfaysal" /> </p>
+<p align="left"> <img src="https://raw.githubusercontent.com/SanyFaysal/SanyFaysal/main/Screenshot_6.png" alt="sanyfaysal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanyfaysal" alt="sanyfaysal" /></a> </p>
 
