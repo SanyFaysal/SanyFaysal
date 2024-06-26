@@ -22,5 +22,5 @@ Hi there! I'm <b>Abu Sani Faysal</b>. I'm a passionate software developer with a
 * Tools:
     * Git
       
-## Contact (Optional)
+## Contact 
 Feel free to reach out to me at [abu.faysal002@gmail.com] or connect with me on [[Linkedin](https://www.linkedin.com/in/abufaysal002)] 
