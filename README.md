@@ -8,9 +8,10 @@ Hi there! I'm <b>Abu Sani Faysal</b>. I'm a passionate software developer with a
     * JavaScript (Advanced)
     * Typescript (Intermediate)
     * Python (Beginner)
-* Frameworks/Libraries:
+* Frontend Frameworks/Libraries:
     * React.Js (Advanced)
     * Next.js (Advanced)
+* Backend Frameworks/Libraries:
     * Node.Js(Advanced)
     * Express.Js(Advanced)
     * Prisma (Intermediate)
