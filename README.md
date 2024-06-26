@@ -1,6 +1,6 @@
 ## About Me (Optional)
 
-Hi there! I'm [Abu Sani Faysal]. I'm a passionate software developer with a strong focus on [Full stack Development]. Outside of coding, I enjoy [Reading Articles].
+Hi there! I'm <b>Abu Sani Faysal</b>. I'm a passionate software developer with a strong focus on <b>Full Stack Development</b>. Outside of coding, I enjoy <b>Articles</b>.
 
 ## Skills
 
@@ -20,15 +20,6 @@ Hi there! I'm [Abu Sani Faysal]. I'm a passionate software developer with a stro
     * PostgreSQL (Intermediate)
 * Tools:
     * Git
-## Projects
-
-* **[Project 1 Name]:** [Short Description] (link to repository) - Built with [Technologies Used].
-* **[Project 2 Name]:** [Short Description] (link to repository) - Focused on [Key Aspect].
-
-## Contributions (Optional)
-
-* Actively contributed to [Open-Source Project Name] (link to repository).
-
+      
 ## Contact (Optional)
-
 Feel free to reach out to me at [abu.faysal002@gmail.com] or connect with me on [[Linkedin](https://www.linkedin.com/in/abufaysal002)] 
