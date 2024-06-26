@@ -2,25 +2,6 @@
 
 Hi there! I'm <b>Abu Sani Faysal</b>. I'm a passionate software developer with a strong focus on <b>Full Stack Development</b>. Outside of coding, I enjoy <b>Articles</b>.
 
-## Skills
-
-* Programming Languages:
-    * JavaScript (Advanced)
-    * Typescript (Intermediate)
-    * Python (Beginner)
-* Frontend Frameworks/Libraries:
-    * React.Js (Advanced)
-    * Next.js (Advanced)
-* Backend Frameworks/Libraries:
-    * Node.Js(Advanced)
-    * Express.Js(Advanced)
-    * Prisma (Intermediate)
-* Database:
-    * SQL & NoSQL (Intermediate)
-    * MongoDB with Mongoose(Advanced)
-    * PostgreSQL (Intermediate)
-* Tools:
-    * Git
 <h3>When I code, I rely on</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -45,6 +26,26 @@ Hi there! I'm <b>Abu Sani Faysal</b>. I'm a passionate software developer with a
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
     <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-</p>      
+</p>   
+## Skills
+
+* Programming Languages:
+    * JavaScript (Advanced)
+    * Typescript (Intermediate)
+    * Python (Beginner)
+* Frontend Frameworks/Libraries:
+    * React.Js (Advanced)
+    * Next.js (Advanced)
+* Backend Frameworks/Libraries:
+    * Node.Js(Advanced)
+    * Express.Js(Advanced)
+    * Prisma (Intermediate)
+* Database:
+    * SQL & NoSQL (Intermediate)
+    * MongoDB with Mongoose(Advanced)
+    * PostgreSQL (Intermediate)
+* Tools:
+    * Git
+   
 ## Contact 
 Feel free to reach out to me at [abu.faysal002@gmail.com] or connect with me on [[Linkedin](https://www.linkedin.com/in/abufaysal002)] 
