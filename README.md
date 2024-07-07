@@ -16,5 +16,20 @@ Hi there! I'm <b>Abu Sani Faysal</b>. I'm a passionate software developer with a
 | **Database**          | ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)                                                          |
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens) ![Socket.io](https://img.shields.io/badge/-Socket.io-333333?style=flat&logo=socket.io) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) ![AOS](https://img.shields.io/badge/-AOS-333333?style=flat) ![Swipper](https://img.shields.io/badge/-Swipper-333333?style=flat)                  |
 
+
+
+
+<p align="center" width='200px'>
+  <img width='500px' src="https://github-readme-stats.vercel.app/api?username=SanyFaysal&theme=transparent&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img  width='500px' src="https://github-readme-streak-stats.herokuapp.com/?user=SanyFaysal&theme=transparent&hide_border=false" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img  width='500px'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanyFaysal&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
+</p>
+
 ## Contact 
 Feel free to reach out to me at  or connect with me on [[Linkedin](https://www.linkedin.com/in/abufaysal002)] 
