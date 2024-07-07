@@ -1,4 +1,4 @@
-  <img alt="html5" src="https://raw.githubusercontent.com/SanyFaysal/SanyFaysal/main/1715059400614.jpg" />
+  <img alt="html5" src="./assets/banner1.png" />
 
 ## About Me 
 
