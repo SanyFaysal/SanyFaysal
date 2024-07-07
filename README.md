@@ -2,7 +2,7 @@
 
 ## About Me 
 
-Hi there! I'm <b>Abu Sani Faysal</b>. I'm a passionate software developer with a strong focus on <b>Full Stack Development</b>. Outside of coding, I enjoy <b>Articles</b>.
+Hi there! I'm <b>Abu Sani Faysal</b>. I'm a passionate Software Developer with a strong focus on <b>Full Stack Development</b>. I love sharing what I know teaching. If you want to learn more about what I do, you can follow me. Outside of coding, I enjoy <b>Articles</b>.
 
 
 <h3>When I code, I rely on</h3>
@@ -18,7 +18,7 @@ Hi there! I'm <b>Abu Sani Faysal</b>. I'm a passionate software developer with a
 
 
 
-<h3>Github Stats</h3>
+ ## Github Stats
 
 | Top Languages | GitHub Stats | GitHub Streak |
 |:---:|:---:|:---:|
@@ -27,7 +27,14 @@ Hi there! I'm <b>Abu Sani Faysal</b>. I'm a passionate software developer with a
 
 
 
+## Contact
+Feel free to reach out to me or connect with me on  [Linkedin](https://www.linkedin.com/in/abufaysal002/)
+
+You can also find me on:
+
+- **Email**: abu.faysal002@gmail.com
+- **Linkedin**: [Click Here](https://www.linkedin.com/in/abufaysal002/)
+- **Facebook** : [Click Here](https://www.facebook.com/profile.php?id=100064072804665)
 
 
-## Contact 
-Feel free to reach out to me at  or connect with me on [[Linkedin](https://www.linkedin.com/in/abufaysal002)] 
+Let's connect and discuss exciting opportunities!
