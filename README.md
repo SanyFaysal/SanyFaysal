@@ -18,18 +18,17 @@ Hi there! I'm <b>Abu Sani Faysal</b>. I'm a passionate software developer with a
 
 
 
+<h3>Github Stats</h3>
+ <!-- <img width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanyFaysal&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
+  <img width="250px"  src="https://github-readme-stats.vercel.app/api?username=SanyFaysal&theme=transparent&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats">
+  <img width="250px"   src="https://github-readme-streak-stats.herokuapp.com/?user=SanyFaysal&theme=transparent&hide_border=true" alt="GitHub Streak"> 
+   -->
+   
+| Top Languages | GitHub Stats | GitHub Streak |
+|:---:|:---:|:---:|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanyFaysal&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanyFaysal&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SanyFaysal&theme=transparent&hide_border=true) |
 
-<p align="center" width='200px'>
-  <img width='500px' src="https://github-readme-stats.vercel.app/api?username=SanyFaysal&theme=transparent&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
-</p>
 
-<p align="center">
-  <img  width='500px' src="https://github-readme-streak-stats.herokuapp.com/?user=SanyFaysal&theme=transparent&hide_border=false" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img  width='500px'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanyFaysal&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
-</p>
 
 ## Contact 
 Feel free to reach out to me at  or connect with me on [[Linkedin](https://www.linkedin.com/in/abufaysal002)] 
