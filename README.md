@@ -1,4 +1,5 @@
 <h3 align="center">A passionate frontend developer from India</h3>
+<img src="https://github.com/SanyFaysal/SanyFaysal/blob/main/images.jpeg" width="500px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyfaysal&label=Profile%20views&color=0e75b6&style=flat" alt="sanyfaysal" /> </p>
 
