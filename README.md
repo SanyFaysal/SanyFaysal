@@ -1,7 +1,20 @@
 # 💫 About Me:
 testy test test
 <li> test <li/>
-<img src="https://github.com/SanyFaysal/SanyFaysal/blob/main/images.jpeg" >
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/test) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/test) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/test) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/test) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@test) 
 
