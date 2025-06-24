@@ -1,6 +1,6 @@
 # 💫 About Me:
 testy test test
-<li> test <li/>
+
 ```javascript
 const thai = {
   pronouns: "she" | "her",
